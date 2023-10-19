@@ -1,5 +1,5 @@
 [package]
-name = "wamp-rs"
+name = "wamp-server"
 version = "0.0.1"
 description = "WAMP implementation in rust"
 license = "MIT"
